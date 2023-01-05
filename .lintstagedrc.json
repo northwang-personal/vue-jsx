@@ -1,3 +1,4 @@
 {
-  "src/**/*.{ts,vue}": ["npm run format", "npm run lint"]
+  "src/**/*.{ts,vue}": ["npm run eslint"],
+  "src/**/*.scss": ["npm run stylelint"]
 }

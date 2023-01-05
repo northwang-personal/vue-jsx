@@ -1,0 +1,7 @@
+{
+  "stylelint.packageManager": "pnpm",
+  "stylelint.snippet": ["scss"],
+  "stylelint.validate": ["scss"],
+  "stylelint.stylelintPath": "./node_modules/stylelint",
+  "stylelint.configBasedir": "./"
+}
